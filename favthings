@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+<a href="index.html">Home</a>
+</head>
+<body>
+<h4>Favorite things </h4>
+<ul>
+<li>Favorite animal are axolotls</li>
+<li>Favorite Food are fried oreos</li>
+<li>Favorite Color is Cyan!</li>
+<li>Favorite Book series is One-Piece</li>
+<li>Favorite Show is Stranger Things</li>
+<li>Favorite Pokémon is Annihilape</li>
+<li> Favourite Candy is Twix and Sour Skittles</li>
+<li>Multiple Favorite Video Games so;</li>
+</ul>
+<h4>Favorite Video Games are:</h4>
+
+<ol>
+<li>Ultrakill</li>
+<li>Minecraft</li>
+<li>Pokemon Radical Red</li>
+<li>Super Smash brothers Brawl</li>
+<li>Roblox</li>
+</ol>
+<hr>
+</body>
+</html>
