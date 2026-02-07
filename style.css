@@ -23,7 +23,12 @@ text-align: center;
 
 .lol {
 width: 900px;
+display: block; 
+margin-left: auto; 
+margin-right: auto;
+text-align: center;
 }
+
 
 
 
