@@ -33,6 +33,18 @@ a {
 font-family: Garamond, serif;
 }
 
+myButton {
+  background-color: #05FA00;   
+  color: black;               
+  padding: 12px 24px;
+  border: none;
+  border-radius: 8px;
+  font-size: 18px;
+  cursor: pointer;
+  display: block;             
+  margin: 40px auto;           
+}
+
 
 
 
