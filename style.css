@@ -33,7 +33,7 @@ a {
 font-family: Garamond, serif;
 }
 
-myButton {
+.myButton {
   background-color: #05FA00;   
   color: black;               
   padding: 12px 24px;
@@ -44,6 +44,7 @@ myButton {
   display: block;             
   margin: 40px auto;           
 }
+
 
 
 
