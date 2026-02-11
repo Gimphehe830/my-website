@@ -13,7 +13,7 @@
 <h2 class="center">to my WEBSITE</h2>
 <hr>
 <img class="ed" src="finn.jfif" alt="idgaf about alt text tbh">
-<button onclick="startMusic()">Play Music</button> 
+<button onclick="startMusic()">I am feeling Lucky</button> 
 <audio id="bgm"></audio> <script> 
 const songs = [ 
   "Djo - End Of Beginning (Official Audio).mp3", 
@@ -24,6 +24,7 @@ const songs = [
   playRandomSong() { const randomIndex = Math.floor(Math.random() * songs.length); player.src = songs[randomIndex]; player.play(); } // Start music on button click function startMusic() { playRandomSong(); } // When a song ends, play another random one player.addEventListener("ended", playRandomSong); </script>
 </body>
 </html>
+
 
 
 
