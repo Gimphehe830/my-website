@@ -1,0 +1,39 @@
+<DOCTYPE html>
+  <html>
+    <head>
+      <a href="index.html">Home</a>
+<link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+  
+<button class="myButton" onclick="startMusic()">I am feeling Lucky</button>
+
+<audio id="bgm"></audio>
+
+<script>
+const songs = [
+  "Djo - End Of Beginning (Official Audio).mp3",
+  "Kate Bush - Running Up That Hill - Official Music Video.mp3",
+  "MONTAGEM SUPERSONIC.mp3",
+  "THOT SQUAD - HOES DEPRESSED (Official Video).mp3",
+  "JoJo's Bizzare Adventure - Golden Wind AMV - Il Vento D'oro.mp3",
+  "meganeko - The Cyber Grind (Ultrakill Soundtrack).mp3"
+];
+
+const player = document.getElementById("bgm");
+
+function playRandomSong() {
+  const randomIndex = Math.floor(Math.random() * songs.length);
+  player.src = songs[randomIndex];
+  player.play();
+}
+
+function startMusic() {
+  playRandomSong();
+}
+
+player.addEventListener("ended", playRandomSong);
+</script>
+
+      </body>
+  </html>
