@@ -6,7 +6,14 @@
   </head>
   <body>
 <h1>My Favorite Books</h1>
-<p> I enjoy reading self-help books, Fantasy Dystopian Novels and by far my favorite is Manga.</p> 
-<p> I also draw or use Photoshop from time to time</p>
+<p> I enjoy reading self-help books, fantasy dystopian novels, horror, and by far my favorite is Manga.</p> 
+<p> My Top 5 are:</p>
+<ol>
+<li> One Piece, by Eiichiro Oda </li>
+<li> The Hunger Games, by Suzzanne Collins </li>
+<li> Full-Metal Alchemist, by Hiromu Arakawa </li>
+<li> I Have No Mouth and Yet I Must Scream, by Harlan Ellison </li>
+<li> Holly, by Stephen King </li>
+
   </body>
 </html>
